@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Guess the word! (by Richard)</string>
+    <string name="start_game_message">The game has started!</string>
+    <string name="win_message">You got it! It took you %s guesses.</string>
+    <string name="surrender_message">Sad. You made %s guesses.</string>
+    <string name="empty_string_message">Please provide a letter to make a guess.</string>
+    <string name="long_string_message">Please provide a SINGLE letter as your guess.</string>
+    <string name="number_string_message">Please only provide an alphabetic letter as your guess.</string>
+    <string name="keep_trying_message">Keep trying! You can do it if you just keep going.</string>
+    <string name="letter_button_filler">\*</string>
+</resources>
